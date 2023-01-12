@@ -1,0 +1,30 @@
+{
+  "name": "orik-bekirov",
+  "version": "1.0.0",
+  "description": "Bu bir test paketdir",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "orxan": "echo `menim adim Orxan`",
+    "star": "node index.js"
+  },
+  "keywords": [
+    "test",
+    "paket"
+  ],
+  "author": "Orxan Bekirov",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^6.8.3",
+    "nodemailer": "^6.8.0",
+    "simple-is": "^0.2.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^5.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OrxanBekirov/orik-bekirov.git"
+  }
+  
+}
